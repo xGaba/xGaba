@@ -1,5 +1,10 @@
-## Hi, it's Gaba. 👋
-> Welcome to my GitHub profile
+<h1 align="center">Hi there, it's Gaba</h1>
+<h2 align="center">Tech enthusiast, dev in training</h2>
+<h3 align="center">Rewriting my own story.</h3><br>
+<h4 align="center">
+  I have dedicated a large part of my professional life to microbiology.<br>
+  Now, with the experience that more than 13 years have given me, I have launched myself into what I am passionate about: <strong>development</strong>.    
+</h4>
 
 
 
