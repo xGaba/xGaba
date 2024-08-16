@@ -1,7 +1,7 @@
 ## Hi, it's Gaba. 👋
 > Welcome to my GitHub profile
 
-<img src=""/>
+
 
 <!--
 **xGaba/xGaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
