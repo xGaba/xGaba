@@ -25,6 +25,7 @@
 <img height="40" width="40" src="https://www.svgrepo.com/show/353940/jquery.svg"/>
 <img height="40" width="40" src="https://www.svgrepo.com/show/452210/git.svg"/>
 <img height="40" width="40" src="https://www.svgrepo.com/show/512317/github-142.svg"/>
+<img height="40" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"/>
 <img height="40" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"/></b>
 
 #### ...and many more to come
